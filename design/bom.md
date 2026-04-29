@@ -1,8 +1,8 @@
 # Bill of Materials (BOM)
 
 Project: Vision-Guided Mouse Robot  
-Status: Hardware acquired  
-Last update: 2025-12-13
+Status: Hardware arrived (battery charger still missing)
+Last update: 2026-04-26
 
 This document lists the exact hardware components selected and purchased for the project.  
 All items below correspond to the current implementation baseline.
