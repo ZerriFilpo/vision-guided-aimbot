@@ -9,12 +9,14 @@ https://www.youtube.com/watch?v=ne9bmMX82iY&t=81s
 
 ---
 
-## Project Status (as of 2025-12-13)
+## Project Status (as of 2026-04-29)
 
 - System concept and overall architecture defined
-- Core hardware components selected and ordered
+- Core hardware components in hand
 - Repository layout established
 - Design documentation and integration planning underway
+- Robot structure design started 
+- Starting to code the tracking software this week
 
 ---
 
