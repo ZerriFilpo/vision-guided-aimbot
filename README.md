@@ -22,17 +22,19 @@ https://www.youtube.com/watch?v=ne9bmMX82iY&t=81s
 
 ## Repository Structure
 
+```
 vision-guided-aimbot/
-├─ README.md # Project overview and current status
-├─ app/ # Application code (firmware and host)
-│ ├─ firmware/ # Embedded C for microcontroller
-│ ├─ host/ # Vision/tracking and communication
-│ └─ shared/ # Cross-component definitions
-├─ design/ # Design and engineering documentation
-│ ├─ architecture/ # Diagrams, data flows, decisions
-│ ├─ hardware/ # BOM, power tree, wiring
-│ └─ mechanical/ # Chassis and mounting layouts
-└─ .github/workflows/ # CI/CD workflows (future)
+├─ README.md               # Project overview and current status
+├─ app/                    # Application code (firmware and host)
+│   ├─ firmware/           # Embedded C for microcontroller
+│   ├─ host/               # Vision/tracking and communication
+│   └─ shared/             # Cross-component definitions
+├─ design/                 # Design and engineering documentation
+│   ├─ architecture/       # Diagrams, data flows, decisions
+│   ├─ hardware/           # BOM, power tree, wiring
+│   └─ mechanical/         # Chassis and mounting layouts
+└─ .github/workflows/      # CI/CD workflows (future)
+```
 
 ---
 
